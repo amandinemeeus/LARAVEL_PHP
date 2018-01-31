@@ -22,36 +22,41 @@ class LigneController extends Controller
 
     function getPosition() {
         $token = $this->getToken();
-       
         // initialisation de la session
         $curl = curl_init();
 
         // configuration des options
-        curl_setopt($curl, CURLOPT_URL, "https://opendata-api.stib-mivb.be/OperationMonitoring/1.0/VehiclePositionByLine/93");
-        curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($curl, CURLOPT_HTTPHEADER, ["Authorization: Bearer $token"]);
-        curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, FALSE);
+        curl_setopt_array($curl, array(
+            CURLOPT_URL                 => "https://opendata-api.stib-mivb.be/OperationMonitoring/1.0/VehiclePositionByLine/93",
+            CURLOPT_RETURNTRANSFER      => 1,
+            CURLOPT_HTTPHEADER          => ["Authorization: Bearer $token"],
+            CURLOPT_CAINFO              => 'C:\MAMP\htdocs\LARAVEL\STIB\cacert.pem',
+        ));
+        
         // exécution de la session
         $resultat = curl_exec($curl);
         
         // fermeture des ressources
         curl_close($curl);
         $decode = json_decode($resultat);
-        return($decode);
+        return $decode->lines[0]->vehiclePositions;
     }
 
     function getToken (){
-         $curl = curl_init();
-         curl_setopt_array($curl, array(
+        $curl = curl_init();
+        curl_setopt_array($curl, array(
             CURLOPT_URL                 => 'https://opendata-api.stib-mivb.be/token',   
             CURLOPT_RETURNTRANSFER      => 1,
             CURLOPT_POST                => 1,
+            CURLOPT_CAINFO              => 'C:\MAMP\htdocs\LARAVEL\STIB\cacert.pem',
             CURLOPT_POSTFIELDS          => "grant_type=client_credentials",
             CURLOPT_HTTPHEADER          => ['Authorization: Basic UEZWZ2xxUWNzZXVtUXRialpwRldZcjV5SkQwYTplanpLZGtUaURiajRaSEc4dk1KQkdMZUtWVE1h']
-         ));
-         $resultat = curl_exec($curl);
-         curl_close($curl);
-         $data = json_decode($resultat);
-         //return $data->lines[0]->vehiclePositions;
+        ));
+        $resultat = curl_exec($curl);
+        if (FALSE === $resultat)
+        curl_close($curl);  
+
+        $data = json_decode($resultat);
+        return $data->access_token;
     }
 }
