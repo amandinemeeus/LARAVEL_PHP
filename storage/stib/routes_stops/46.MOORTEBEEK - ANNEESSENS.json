@@ -1,0 +1,165 @@
+{
+    "route_long_name": "MOORTEBEEK - ANNEESSENS",
+    "route_short_name": "46",
+    "directions": ["MOORTEBEEK", "ANNEESSENS"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "2181",
+            "stop_name": "ANNEESSENS"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1227",
+            "stop_name": "LEMONNIER"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "2214",
+            "stop_name": "PTE D'ANDERLECHT"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "2215",
+            "stop_name": "LIVERPOOL"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2216",
+            "stop_name": "CLEMENCEAU"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "2217",
+            "stop_name": "ALBERT I"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2218",
+            "stop_name": "CUREGHEM"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "6809",
+            "stop_name": "DOUVRES"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "2220",
+            "stop_name": "RESISTANCE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2535B",
+            "stop_name": "SAINT-GUIDON"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2323",
+            "stop_name": "MEIR"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "2373",
+            "stop_name": "DE LINDE"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "2375",
+            "stop_name": "HOPITAL BRACOPS"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "3713",
+            "stop_name": "SCHERDEMAEL"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "3712",
+            "stop_name": "VANHELLEMONT"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "3718",
+            "stop_name": "NEERPEDE"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "3717",
+            "stop_name": "SIBELIUS"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "1261",
+            "stop_name": "WESTLAND SHOPPING"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "1201",
+            "stop_name": "MOORTEBEEK"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1201",
+            "stop_name": "MOORTEBEEK"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1203",
+            "stop_name": "WESTLAND SHOPPING"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1487",
+            "stop_name": "POMMIER"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "3752",
+            "stop_name": "SIBELIUS"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3751",
+            "stop_name": "NEERPEDE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "3756",
+            "stop_name": "VANHELLEMONT"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3755",
+            "stop_name": "SCHERDEMAEL"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "2319",
+            "stop_name": "HOPITAL BRACOPS"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "2518",
+            "stop_name": "DE LINDE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2256B",
+            "stop_name": "SAINT-GUIDON"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2257B",
+            "stop_name": "RESISTANCE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "6858C",
+            "stop_name": "DOUVRES"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "2259",
+            "stop_name": "CUREGHEM"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "2260",
+            "stop_name": "ALBERT I"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "2261",
+            "stop_name": "CLEMENCEAU"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "2262",
+            "stop_name": "LIVERPOOL"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "2263",
+            "stop_name": "PTE D'ANDERLECHT"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "2264",
+            "stop_name": "BUANDERIE"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "2255",
+            "stop_name": "SIX JETONS"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "2181",
+            "stop_name": "ANNEESSENS"
+        }]
+    ]
+}

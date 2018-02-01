@@ -1,0 +1,173 @@
+{
+    "route_long_name": "MONTGOMERY - BAN-EIK",
+    "route_short_name": "39",
+    "directions": ["MONTGOMERY", "BAN-EIK"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "5528F",
+            "stop_name": "BAN-EIK"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5521",
+            "stop_name": "TER MEEREN"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "5522",
+            "stop_name": "RUISSEAU"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "5523",
+            "stop_name": "LOUIS MARCELIS"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "5524",
+            "stop_name": "BEL-AIR"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5525",
+            "stop_name": "DE BURBURE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "5533",
+            "stop_name": "EGLANTIERS"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "5530",
+            "stop_name": "AMITIE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "6475F",
+            "stop_name": "STOCKEL"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "5551",
+            "stop_name": "ESCRIME"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "5553",
+            "stop_name": "AVIATION"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "5554",
+            "stop_name": "RUE AU BOIS"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "5555",
+            "stop_name": "MADOUX"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "5556",
+            "stop_name": "DE VILLALOBAR"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "5273F",
+            "stop_name": "MUSEE DU TRAM"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "5559",
+            "stop_name": "CHIEN VERT"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "5560",
+            "stop_name": "JULES CESAR"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "5561F",
+            "stop_name": "LEOPOLD II"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "5531",
+            "stop_name": "GJ MARTIN"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "5562",
+            "stop_name": "GJ MARTIN"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "0089",
+            "stop_name": "MONTGOMERY"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "0089",
+            "stop_name": "MONTGOMERY"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5501",
+            "stop_name": "GJ MARTIN"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "5502",
+            "stop_name": "LEOPOLD II"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "5503",
+            "stop_name": "JULES CESAR"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "5504",
+            "stop_name": "CHIEN VERT"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5281F",
+            "stop_name": "MUSEE DU TRAM"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "5507",
+            "stop_name": "DE VILLALOBAR"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "5508",
+            "stop_name": "MADOUX"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "5509",
+            "stop_name": "RUE AU BOIS"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "5510",
+            "stop_name": "AVIATION"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "5512",
+            "stop_name": "ESCRIME"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "6474F",
+            "stop_name": "STOCKEL"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "5529",
+            "stop_name": "AMITIE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "5532",
+            "stop_name": "EGLANTIERS"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "5515",
+            "stop_name": "DE BURBURE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "5516",
+            "stop_name": "BEL-AIR"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "5517",
+            "stop_name": "LOUIS MARCELIS"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "5518",
+            "stop_name": "RUISSEAU"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "5519",
+            "stop_name": "TER MEEREN"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "5520F",
+            "stop_name": "BAN-EIK"
+        }]
+    ]
+}

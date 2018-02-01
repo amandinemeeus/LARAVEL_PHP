@@ -1,0 +1,89 @@
+{
+    "route_long_name": "WESTLAND SHOPPING - BOCKSTAEL",
+    "route_short_name": "89",
+    "directions": ["WESTLAND SHOPPING", "BOCKSTAEL"],
+    "stops": [
+        [],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "4215",
+            "stop_name": "WESTLAND SHOPPING"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1204",
+            "stop_name": "FRUITS"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1205",
+            "stop_name": "WILLEMYNS"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1206",
+            "stop_name": "PETERBOS"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "1207",
+            "stop_name": "PAULSEN"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1208",
+            "stop_name": "HENRI REY"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3760",
+            "stop_name": "VETERANS COLON."
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "1211B",
+            "stop_name": "JACQUES BREL"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1178",
+            "stop_name": "DELACROIX"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "4595",
+            "stop_name": "DUCHESSE BRABANT"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1242",
+            "stop_name": "ELEPHANT"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "6754",
+            "stop_name": "BORNE"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "6755",
+            "stop_name": "COMTE DE FLANDRE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "4253",
+            "stop_name": "RIBAUCOURT"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1056",
+            "stop_name": "PICARD"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "4254B",
+            "stop_name": "ESCAUT"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "4258",
+            "stop_name": "POUCHKINE"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "4266",
+            "stop_name": "NEKKERSDAL"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "4127",
+            "stop_name": "BOCKSTAEL"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "4122",
+            "stop_name": "BOCKSTAEL"
+        }]
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "route_long_name": "GARE DU MIDI - LOT STATION",
+    "route_short_name": "50",
+    "directions": ["GARE DU MIDI", "LOT STATION"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "9658",
+            "stop_name": "LOT STATION"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "9659",
+            "stop_name": "STATION LOT"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "9677",
+            "stop_name": "WATERBURY"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "9678",
+            "stop_name": "BEKA"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "9679",
+            "stop_name": "VOETBALCLUB"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "9680",
+            "stop_name": "KAPEL RUISBROEK"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "9685",
+            "stop_name": "SPORTCENTRUM"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "9682",
+            "stop_name": "RUISBROEK CENTRUM"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "9683",
+            "stop_name": "KERK RUISBROEK"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2659",
+            "stop_name": "GILSON"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2661",
+            "stop_name": "RUE LONGUE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "2662B",
+            "stop_name": "UCCLE SPORT"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "2663",
+            "stop_name": "NEERSTALLE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "2669",
+            "stop_name": "BEMPT"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "2665",
+            "stop_name": "MAX WALLER"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "5152",
+            "stop_name": "SAINT-DENIS"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "5161",
+            "stop_name": "FOREST CENTRE"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "1085",
+            "stop_name": "BERVOETS"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "2524",
+            "stop_name": "CHARROI"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "5159",
+            "stop_name": "WIELS"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "5757",
+            "stop_name": "ORBAN"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "2672",
+            "stop_name": "IMPRIMERIE"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "2670",
+            "stop_name": "AVENUE DU ROI"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "2671",
+            "stop_name": "SUEDE"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "2500",
+            "stop_name": "GARE DU MIDI"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "2531",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2539",
+            "stop_name": "SUEDE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "2544",
+            "stop_name": "AVENUE DU ROI"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "2548",
+            "stop_name": "IMPRIMERIE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2553",
+            "stop_name": "ORBAN"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "2546",
+            "stop_name": "WIELS"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2555",
+            "stop_name": "CHARROI"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "1015",
+            "stop_name": "BERVOETS"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "5915",
+            "stop_name": "FOREST CENTRE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "5719",
+            "stop_name": "SAINT-DENIS"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "5720",
+            "stop_name": "MAX WALLER"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "2608",
+            "stop_name": "BEMPT"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "5721",
+            "stop_name": "NEERSTALLE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "2664",
+            "stop_name": "UCCLE SPORT"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "2609",
+            "stop_name": "RUE LONGUE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "2611",
+            "stop_name": "GILSON"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "9651",
+            "stop_name": "KERK RUISBROEK"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "9652",
+            "stop_name": "RUISBROEK CENTRUM"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "9660",
+            "stop_name": "SPORTCENTRUM"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "9654",
+            "stop_name": "KAPEL RUISBROEK"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "9655",
+            "stop_name": "VOETBALCLUB"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "9656",
+            "stop_name": "BEKA"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "9657",
+            "stop_name": "WATERBURY"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "9658",
+            "stop_name": "LOT STATION"
+        }]
+    ]
+}

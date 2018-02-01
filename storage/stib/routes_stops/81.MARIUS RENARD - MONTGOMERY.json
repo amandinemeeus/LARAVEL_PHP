@@ -1,0 +1,285 @@
+{
+    "route_long_name": "MARIUS RENARD - MONTGOMERY",
+    "route_short_name": "81",
+    "directions": ["MARIUS RENARD", "MONTGOMERY"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "2286G",
+            "stop_name": "MONTGOMERY"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "6462F",
+            "stop_name": "MERODE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "6153",
+            "stop_name": "PLACE ST-PIERRE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "6009",
+            "stop_name": "ACACIAS"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "6155F",
+            "stop_name": "LA CHASSE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "6156F",
+            "stop_name": "EGLISE ST-ANTOINE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "6157F",
+            "stop_name": "GERMOIR"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "6158H",
+            "stop_name": "LEVURE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "3572F",
+            "stop_name": "FLAGEY"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "6119F",
+            "stop_name": "DAUTZENBERG"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2949F",
+            "stop_name": "BAILLI"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "2931F",
+            "stop_name": "TRINITE"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "6425F",
+            "stop_name": "JANSON"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "6162",
+            "stop_name": "MORIS"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "6078",
+            "stop_name": "LOMBARDIE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "2336G",
+            "stop_name": "BARRIERE"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "6165",
+            "stop_name": "GUILLAUME TELL"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "6166",
+            "stop_name": "BETHLEEM"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "6175",
+            "stop_name": "AVENUE DU ROI"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "2671F",
+            "stop_name": "SUEDE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "0636",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "6068",
+            "stop_name": "BARA"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "6808G",
+            "stop_name": "CONSEIL"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "2217F",
+            "stop_name": "ALBERT I"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "2218F",
+            "stop_name": "CUREGHEM"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "6809F",
+            "stop_name": "DOUVRES"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "2220F",
+            "stop_name": "RESISTANCE"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "2535F",
+            "stop_name": "SAINT-GUIDON"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "6810",
+            "stop_name": "MEIR"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "6811",
+            "stop_name": "YSAYE"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "6792F",
+            "stop_name": "VAN BEETHOVEN"
+        }, {
+            "stop_sequence": "32",
+            "stop_id": "3608",
+            "stop_name": "FRANS HALS"
+        }, {
+            "stop_sequence": "33",
+            "stop_id": "3609F",
+            "stop_name": "PARC VIVES"
+        }, {
+            "stop_sequence": "34",
+            "stop_id": "3610F",
+            "stop_name": "MARIUS RENARD"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "3123",
+            "stop_name": "LEVURE"
+        }, {
+            "stop_sequence": "1",
+            "stop_id": "3611F",
+            "stop_name": "MARIUS RENARD"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "3612F",
+            "stop_name": "PARC VIVES"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "6113F",
+            "stop_name": "GERMOIR"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "3613F",
+            "stop_name": "FRANS HALS"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "6114F",
+            "stop_name": "EGLISE ST-ANTOINE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "6115F",
+            "stop_name": "LA CHASSE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "6799F",
+            "stop_name": "VAN BEETHOVEN"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "6008",
+            "stop_name": "ACACIAS"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "6856",
+            "stop_name": "YSAYE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "6857",
+            "stop_name": "MEIR"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "6117",
+            "stop_name": "PLACE ST-PIERRE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2256F",
+            "stop_name": "SAINT-GUIDON"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "6463F",
+            "stop_name": "MERODE"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "2257G",
+            "stop_name": "RESISTANCE"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "2285G",
+            "stop_name": "MONTGOMERY"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "6858G",
+            "stop_name": "DOUVRES"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1042",
+            "stop_name": "ICHEC"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2259F",
+            "stop_name": "CUREGHEM"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2260F",
+            "stop_name": "ALBERT I"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "6860G",
+            "stop_name": "CONSEIL"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "6705F",
+            "stop_name": "BARA"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "0631",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "2539F",
+            "stop_name": "SUEDE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "6099",
+            "stop_name": "AVENUE DU ROI"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "6106",
+            "stop_name": "BETHLEEM"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "6121F",
+            "stop_name": "GUILLAUME TELL"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "2331F",
+            "stop_name": "BARRIERE"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "6077F",
+            "stop_name": "LOMBARDIE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "6109",
+            "stop_name": "MORIS"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "6427F",
+            "stop_name": "JANSON"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "2960F",
+            "stop_name": "TRINITE"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "2966F",
+            "stop_name": "BAILLI"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "6120",
+            "stop_name": "DAUTZENBERG"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "3508F",
+            "stop_name": "FLAGEY"
+        }]
+    ]
+}

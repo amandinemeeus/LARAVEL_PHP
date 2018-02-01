@@ -1,0 +1,257 @@
+{
+    "route_long_name": "SIMONIS - BEEKKANT",
+    "route_short_name": "87",
+    "directions": ["SIMONIS", "BEEKKANT"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "4014",
+            "stop_name": "BEEKKANT"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "3231",
+            "stop_name": "JOSEPH BAECK"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "3232",
+            "stop_name": "DUBOIS"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "3233",
+            "stop_name": "TAMARIS"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3239",
+            "stop_name": "CONDOR"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "3235",
+            "stop_name": "CANDRIES"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3236",
+            "stop_name": "THYM"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "4653",
+            "stop_name": "HOOGBOSCH"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "4655",
+            "stop_name": "ELBERS"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "4656",
+            "stop_name": "CIMETIERES"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "4657",
+            "stop_name": "MARICOLLES"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "4661B",
+            "stop_name": "BROEK"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1193",
+            "stop_name": "SEPT ETOILES"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "1195",
+            "stop_name": "HUNDERENVELD"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1196",
+            "stop_name": "PARC MONNET"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "4059",
+            "stop_name": "BERCHEM-SHOPPING"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "4010",
+            "stop_name": "BERCHEM STATION"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "4062",
+            "stop_name": "BOIS DES ILES"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "4101",
+            "stop_name": "BASILIX"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "4109",
+            "stop_name": "CHOPIN"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "4115",
+            "stop_name": "GANSHOREN-SPORT"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "4103",
+            "stop_name": "HET VEROOST"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "4104",
+            "stop_name": "NEUBERGER"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "4112",
+            "stop_name": "LOWET"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "4105",
+            "stop_name": "NEREUS"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "4106",
+            "stop_name": "SORENSEN"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "4107",
+            "stop_name": "BEECKMANS"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "4110",
+            "stop_name": "COLLEGE S.-COEUR"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "2519",
+            "stop_name": "RIETHUISEN"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "4116",
+            "stop_name": "PARC ELISABETH"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "1112",
+            "stop_name": "SIMONIS"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1288",
+            "stop_name": "SIMONIS"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "4152",
+            "stop_name": "PARC ELISABETH"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1303",
+            "stop_name": "RIETHUISEN"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "4153",
+            "stop_name": "COLLEGE S.-COEUR"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "4156",
+            "stop_name": "BEECKMANS"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "4157",
+            "stop_name": "SORENSEN"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "4158",
+            "stop_name": "NEREUS"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "4163",
+            "stop_name": "LOWET"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "4159",
+            "stop_name": "NEUBERGER"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "4160",
+            "stop_name": "HET VEROOST"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "4168",
+            "stop_name": "GANSHOREN-SPORT"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "4169",
+            "stop_name": "CHOPIN"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "4162",
+            "stop_name": "BASILIX"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "4165",
+            "stop_name": "BOIS DES ILES"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "4004",
+            "stop_name": "BERCHEM STATION"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "4002B",
+            "stop_name": "BERCHEM-SHOPPING"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "1099",
+            "stop_name": "PARC MONNET"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "1116",
+            "stop_name": "HUNDERENVELD"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "1102",
+            "stop_name": "SEPT ETOILES"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "4598",
+            "stop_name": "BROEK"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "4599",
+            "stop_name": "MARICOLLES"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "4600",
+            "stop_name": "CIMETIERES"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "4601",
+            "stop_name": "ELBERS"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "4602",
+            "stop_name": "HOOGBOSCH"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "4658",
+            "stop_name": "THYM"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "4659",
+            "stop_name": "CANDRIES"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "3238",
+            "stop_name": "CONDOR"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "3252",
+            "stop_name": "TAMARIS"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "3281",
+            "stop_name": "DUBOIS"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "3282",
+            "stop_name": "JOSEPH BAECK"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "4014",
+            "stop_name": "BEEKKANT"
+        }]
+    ]
+}

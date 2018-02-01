@@ -1,0 +1,281 @@
+{
+    "route_long_name": "STADE - VAN HAELEN",
+    "route_short_name": "51",
+    "directions": ["STADE", "VAN HAELEN"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "5853F",
+            "stop_name": "GLOBE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5854F",
+            "stop_name": "XAVIER DE BUE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "5855F",
+            "stop_name": "BENS"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "5856F",
+            "stop_name": "ROOSENDAEL"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "5857F",
+            "stop_name": "COGHEN"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5849",
+            "stop_name": "ALTITUDE CENT"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2409",
+            "stop_name": "JUPITER"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "0722",
+            "stop_name": "ALBERT"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "0723",
+            "stop_name": "HORTA"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "0724",
+            "stop_name": "PARVIS ST-GILLES"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "0725",
+            "stop_name": "PORTE DE HAL"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "0726",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "6601",
+            "stop_name": "LEMONNIER"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "6602",
+            "stop_name": "BODEGHEM"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "6603",
+            "stop_name": "PTE D'ANDERLECHT"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "6608F",
+            "stop_name": "ARTS ET METIERS"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "3259G",
+            "stop_name": "PORTE DE NINOVE"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "6604F",
+            "stop_name": "PORTE DE FLANDRE"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "6606",
+            "stop_name": "YPRES"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "6607",
+            "stop_name": "YSER"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "5071",
+            "stop_name": "SAINCTELETTE"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "5072",
+            "stop_name": "RIBAUCOURT"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "5089",
+            "stop_name": "JUBILE"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "5074F",
+            "stop_name": "VANDERSTICHELEN"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "5076F",
+            "stop_name": "BELGICA"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "5077",
+            "stop_name": "ODON WARLAND"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "5078F",
+            "stop_name": "WOESTE"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "5079",
+            "stop_name": "DEMINEURS"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "5080",
+            "stop_name": "CIM. DE JETTE"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "5081F",
+            "stop_name": "GUILL. DE GREEF"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "5471",
+            "stop_name": "HOPITAL BRUGMANN"
+        }, {
+            "stop_sequence": "32",
+            "stop_id": "4257",
+            "stop_name": "KUFFERATH"
+        }, {
+            "stop_sequence": "33",
+            "stop_id": "5472",
+            "stop_name": "STIENON"
+        }, {
+            "stop_sequence": "34",
+            "stop_id": "1289",
+            "stop_name": "STADE"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1290",
+            "stop_name": "STADE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5402",
+            "stop_name": "STIENON"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "4209",
+            "stop_name": "KUFFERATH"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "5403",
+            "stop_name": "HOPITAL BRUGMANN"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "5010",
+            "stop_name": "GUILL. DE GREEF"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "2869",
+            "stop_name": "CIM. DE JETTE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "5006",
+            "stop_name": "DEMINEURS"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "5007F",
+            "stop_name": "WOESTE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "5008F",
+            "stop_name": "ODON WARLAND"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "5009F",
+            "stop_name": "BELGICA"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "5011F",
+            "stop_name": "VANDERSTICHELEN"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "5015",
+            "stop_name": "JUBILE"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "5013",
+            "stop_name": "RIBAUCOURT"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "5014",
+            "stop_name": "SAINCTELETTE"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "6651",
+            "stop_name": "YSER"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "6652",
+            "stop_name": "YPRES"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "6654F",
+            "stop_name": "PORTE DE FLANDRE"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "3223G",
+            "stop_name": "PORTE DE NINOVE"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "6650F",
+            "stop_name": "ARTS ET METIERS"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "6655",
+            "stop_name": "PTE D'ANDERLECHT"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "6656",
+            "stop_name": "BODEGHEM"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "6657",
+            "stop_name": "LEMONNIER"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "0702",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "0703",
+            "stop_name": "PORTE DE HAL"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "0704",
+            "stop_name": "PARVIS ST-GILLES"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "0705",
+            "stop_name": "HORTA"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "0707",
+            "stop_name": "ALBERT"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "2956",
+            "stop_name": "JUPITER"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "5848",
+            "stop_name": "ALTITUDE CENT"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "5812F",
+            "stop_name": "COGHEN"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "5813F",
+            "stop_name": "ROOSENDAEL"
+        }, {
+            "stop_sequence": "32",
+            "stop_id": "5814F",
+            "stop_name": "BENS"
+        }, {
+            "stop_sequence": "33",
+            "stop_id": "5815F",
+            "stop_name": "XAVIER DE BUE"
+        }, {
+            "stop_sequence": "34",
+            "stop_id": "5816F",
+            "stop_name": "GLOBE"
+        }]
+    ]
+}

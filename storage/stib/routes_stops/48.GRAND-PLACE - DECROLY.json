@@ -1,0 +1,201 @@
+{
+    "route_long_name": "GRAND-PLACE - DECROLY",
+    "route_short_name": "48",
+    "directions": ["GRAND-PLACE", "DECROLY"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "2306",
+            "stop_name": "DECROLY"
+        }, {
+            "stop_sequence": "1",
+            "stop_id": "2462",
+            "stop_name": "ROCHEFORT"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2322",
+            "stop_name": "FORESTOISE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2463",
+            "stop_name": "COMBAZ"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "2333",
+            "stop_name": "BARRIERE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "2455",
+            "stop_name": "DOMAINE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "2465",
+            "stop_name": "PARVIS ST-GILLES"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "2954B",
+            "stop_name": "MYSTERE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2456",
+            "stop_name": "DUDEN"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2467",
+            "stop_name": "PORTE DE HAL"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1125",
+            "stop_name": "HOP. SAINT-PIERRE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "2457",
+            "stop_name": "ALTITUDE CENT"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "1126",
+            "stop_name": "JEU DE BALLE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "5858",
+            "stop_name": "MOLIERE-LONGCHAMP"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "1127",
+            "stop_name": "CHAPELLE"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "5859",
+            "stop_name": "TIMMERMANS"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1376B",
+            "stop_name": "GRAND SABLON"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "2934",
+            "stop_name": "ALBERT"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "1781",
+            "stop_name": "GRAND-PLACE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2459",
+            "stop_name": "MONT KEMMEL"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2276",
+            "stop_name": "BOURSE"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2460",
+            "stop_name": "LAINE"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "2279",
+            "stop_name": "GRAND-PLACE"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "2279",
+            "stop_name": "GRAND-PLACE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2268",
+            "stop_name": "BIBLIOTHEQUE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1703",
+            "stop_name": "GRAND SABLON"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1167",
+            "stop_name": "CHAPELLE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "1168",
+            "stop_name": "JEU DE BALLE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1169",
+            "stop_name": "PORTE DE HAL"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2418",
+            "stop_name": "FONTAINAS"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "2402",
+            "stop_name": "PARVIS ST-GILLES"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "2334B",
+            "stop_name": "BARRIERE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2404",
+            "stop_name": "COMBAZ"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "5115",
+            "stop_name": "ROCHEFORT"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "2407",
+            "stop_name": "LAINE"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "2408",
+            "stop_name": "MONT KEMMEL"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "2957",
+            "stop_name": "ALBERT"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "5810",
+            "stop_name": "TIMMERMANS"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "5811",
+            "stop_name": "MOLIERE-LONGCHAMP"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "2410",
+            "stop_name": "ALTITUDE CENT"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "2411B",
+            "stop_name": "DUDEN"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "2937B",
+            "stop_name": "MYSTERE"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "2412",
+            "stop_name": "DOMAINE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "2413",
+            "stop_name": "FORESTOISE"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "2414",
+            "stop_name": "DECROLY"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "2415",
+            "stop_name": "AULNE"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "2452",
+            "stop_name": "VICTOR ALLARD"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "2306",
+            "stop_name": "DECROLY"
+        }]
+    ]
+}

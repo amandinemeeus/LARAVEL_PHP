@@ -1,0 +1,253 @@
+{
+    "route_long_name": "SCHUMAN - KONKEL",
+    "route_short_name": "36",
+    "directions": ["SCHUMAN", "KONKEL"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1830",
+            "stop_name": "KONKEL"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1846",
+            "stop_name": "VAL DES SEIGNEURS"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1847",
+            "stop_name": "GERSIS"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1302",
+            "stop_name": "STOCKEL"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "1840",
+            "stop_name": "BOULEAUX"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1850",
+            "stop_name": "PADDOCK"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "1851",
+            "stop_name": "SAINTE-ALIX"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "1852",
+            "stop_name": "VANDER MEERSCHEN"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1853",
+            "stop_name": "MANOIR D'ANJOU"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "1854",
+            "stop_name": "RUE AU BOIS"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1841",
+            "stop_name": "MAREYDE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "1856",
+            "stop_name": "MERTENS"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1857",
+            "stop_name": "KELLE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "5273",
+            "stop_name": "MUSEE DU TRAM"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1859",
+            "stop_name": "CHIEN VERT"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1860",
+            "stop_name": "JULES CESAR"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "1861",
+            "stop_name": "OCEAN ATLANTIQUE"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "1862",
+            "stop_name": "CHANT D'OISEAU"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "1863",
+            "stop_name": "MOUETTES"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "1864",
+            "stop_name": "DREVE DE NIVELLES"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "1865",
+            "stop_name": "BARON DE CASTRO"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "1866",
+            "stop_name": "BOILEAU"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "6472",
+            "stop_name": "THIEFFRY"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "1868",
+            "stop_name": "ROI VAINQUEUR"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "1869",
+            "stop_name": "ONZE NOVEMBRE"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "1870",
+            "stop_name": "LA CHASSE"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "1871B",
+            "stop_name": "LOUIS HAP"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "1872B",
+            "stop_name": "LEMAN"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "1873",
+            "stop_name": "NERVIENS"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "1416",
+            "stop_name": "FROISSART"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "1148C",
+            "stop_name": "SCHUMAN"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1148C",
+            "stop_name": "SCHUMAN"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1802",
+            "stop_name": "NERVIENS"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1803B",
+            "stop_name": "LEMAN"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1804",
+            "stop_name": "LOUIS HAP"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "1805",
+            "stop_name": "LA CHASSE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1806",
+            "stop_name": "ONZE NOVEMBRE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "1807",
+            "stop_name": "ROI VAINQUEUR"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "6473",
+            "stop_name": "THIEFFRY"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1809",
+            "stop_name": "BOILEAU"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "1810",
+            "stop_name": "BARON DE CASTRO"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1811",
+            "stop_name": "DREVE DE NIVELLES"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "1812",
+            "stop_name": "MOUETTES"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1813",
+            "stop_name": "CHANT D'OISEAU"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "1814B",
+            "stop_name": "OCEAN ATLANTIQUE"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1815",
+            "stop_name": "MOSTINCK"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1816",
+            "stop_name": "CHIEN VERT"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "5287",
+            "stop_name": "MUSEE DU TRAM"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "1818",
+            "stop_name": "KELLE"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "1819",
+            "stop_name": "MERTENS"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "1834",
+            "stop_name": "MAREYDE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "1821",
+            "stop_name": "RUE AU BOIS"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "1822",
+            "stop_name": "MANOIR D'ANJOU"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "1823",
+            "stop_name": "VANDER MEERSCHEN"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "1825",
+            "stop_name": "SAINTE-ALIX"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "1826",
+            "stop_name": "PADDOCK"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "1835",
+            "stop_name": "BOULEAUX"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "1301",
+            "stop_name": "STOCKEL"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "1828",
+            "stop_name": "GERSIS"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "1829",
+            "stop_name": "VAL DES SEIGNEURS"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "1830",
+            "stop_name": "KONKEL"
+        }]
+    ]
+}

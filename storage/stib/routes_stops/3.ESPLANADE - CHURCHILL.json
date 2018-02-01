@@ -1,0 +1,229 @@
+{
+    "route_long_name": "ESPLANADE - CHURCHILL",
+    "route_short_name": "3",
+    "directions": ["ESPLANADE", "CHURCHILL"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "9969F",
+            "stop_name": "CHURCHILL"
+        }, {
+            "stop_sequence": "1",
+            "stop_id": "9986F",
+            "stop_name": "CHURCHILL"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5219F",
+            "stop_name": "CHURCHILL"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "6424F",
+            "stop_name": "VANDERKINDERE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "6209",
+            "stop_name": "BERKENDAEL"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "0722",
+            "stop_name": "ALBERT"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "0723",
+            "stop_name": "HORTA"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "0724",
+            "stop_name": "PARVIS ST-GILLES"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "0725",
+            "stop_name": "PORTE DE HAL"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "0726",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "0626",
+            "stop_name": "LEMONNIER"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "0616",
+            "stop_name": "ANNEESSENS"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "0606",
+            "stop_name": "BOURSE"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "0506",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "0516",
+            "stop_name": "ROGIER"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "0526",
+            "stop_name": "GARE DU NORD"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "6177",
+            "stop_name": "THOMAS"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "6179",
+            "stop_name": "MASUI"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "5291F",
+            "stop_name": "JULES DE TROOZ"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "2200F",
+            "stop_name": "MABRU"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "2337F",
+            "stop_name": "DOCKS BRUXSEL"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "5770F",
+            "stop_name": "VAN PRAET"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "5771",
+            "stop_name": "HEEMBEEK"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "5772",
+            "stop_name": "BUISSONNETS"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "5773",
+            "stop_name": "ARAUCARIA"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "5806",
+            "stop_name": "DE WAND"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "5776",
+            "stop_name": "ESPLANADE"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "6486G",
+            "stop_name": "ESPLANADE"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "5701",
+            "stop_name": "ESPLANADE"
+        }, {
+            "stop_sequence": "1",
+            "stop_id": "6485G",
+            "stop_name": "ESPLANADE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5700G",
+            "stop_name": "DE WAND"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "5704F",
+            "stop_name": "ARAUCARIA"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "5705",
+            "stop_name": "BUISSONNETS"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "5706",
+            "stop_name": "HEEMBEEK"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5707",
+            "stop_name": "VAN PRAET"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2338F",
+            "stop_name": "DOCKS BRUXSEL"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "2318F",
+            "stop_name": "MABRU"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "6103F",
+            "stop_name": "JULES DE TROOZ"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "6178",
+            "stop_name": "MASUI"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "5714",
+            "stop_name": "THOMAS"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "0531",
+            "stop_name": "GARE DU NORD"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "0511",
+            "stop_name": "ROGIER"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "0501",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "0601",
+            "stop_name": "BOURSE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "0611",
+            "stop_name": "ANNEESSENS"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "0621",
+            "stop_name": "LEMONNIER"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "0702",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "0703",
+            "stop_name": "PORTE DE HAL"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "0704",
+            "stop_name": "PARVIS ST-GILLES"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "0705",
+            "stop_name": "HORTA"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "0706",
+            "stop_name": "ALBERT"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "6253",
+            "stop_name": "BERKENDAEL"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "6422F",
+            "stop_name": "VANDERKINDERE"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "5221F",
+            "stop_name": "CHURCHILL"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "9959F",
+            "stop_name": "CHURCHILL"
+        }]
+    ]
+}

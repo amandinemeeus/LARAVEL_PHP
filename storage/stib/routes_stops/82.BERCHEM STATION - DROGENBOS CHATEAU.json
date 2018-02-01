@@ -1,0 +1,325 @@
+{
+    "route_long_name": "BERCHEM STATION - DROGENBOS CHATEAU",
+    "route_short_name": "82",
+    "directions": ["BERCHEM STATION", "DROGENBOS CHATEAU"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "3225F",
+            "stop_name": "QUATRE-VENTS"
+        }, {
+            "stop_sequence": "1",
+            "stop_id": "5731F",
+            "stop_name": "DROGENBOS CHATEAU"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "3230F",
+            "stop_name": "GARE DE L'OUEST"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5751",
+            "stop_name": "GRAND'ROUTE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "6070",
+            "stop_name": "JOSEPH BAECK"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "5753F",
+            "stop_name": "RODTS"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "6071",
+            "stop_name": "MENNEKENS"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "5754",
+            "stop_name": "KEYENBEMPT"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "1258G",
+            "stop_name": "CARREFOUR STALLE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "4053G",
+            "stop_name": "KARREVELD"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5756F",
+            "stop_name": "MERLO"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "4054G",
+            "stop_name": "CIM. DE MOLENBEEK"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2663G",
+            "stop_name": "NEERSTALLE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "4055G",
+            "stop_name": "VAN ZANDE"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "2669F",
+            "stop_name": "BEMPT"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "4066F",
+            "stop_name": "GENOT"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1310",
+            "stop_name": "SCHWEITZER"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "2665F",
+            "stop_name": "MAX WALLER"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "4058F",
+            "stop_name": "ALCYONS"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "5152G",
+            "stop_name": "SAINT-DENIS"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "4059F",
+            "stop_name": "BERCHEM-SHOPPING"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "5161F",
+            "stop_name": "FOREST CENTRE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "2667F",
+            "stop_name": "MONACO"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "4270F",
+            "stop_name": "BERCHEM STATION"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "2668",
+            "stop_name": "ZAMAN-FOREST NAT."
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "5155",
+            "stop_name": "CHATAIGNES"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "5151",
+            "stop_name": "UNION"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "5159F",
+            "stop_name": "WIELS"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "5757F",
+            "stop_name": "ORBAN"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "2672F",
+            "stop_name": "IMPRIMERIE"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "2670F",
+            "stop_name": "AVENUE DU ROI"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "4270G",
+            "stop_name": "BERCHEM STATION"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "2671F",
+            "stop_name": "SUEDE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "0636",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "6601",
+            "stop_name": "LEMONNIER"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "6602",
+            "stop_name": "BODEGHEM"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "6603",
+            "stop_name": "PTE D'ANDERLECHT"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "6608F",
+            "stop_name": "ARTS ET METIERS"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "3228F",
+            "stop_name": "TRIANGLE"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "3226F",
+            "stop_name": "DUCHESSE BRABANT"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "4273F",
+            "stop_name": "BERCHEM STATION"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "4002G",
+            "stop_name": "BERCHEM-SHOPPING"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "4003G",
+            "stop_name": "ALCYONS"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1308G",
+            "stop_name": "SCHWEITZER"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "4005F",
+            "stop_name": "GENOT"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "4006G",
+            "stop_name": "VAN ZANDE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "4007G",
+            "stop_name": "CIM. DE MOLENBEEK"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "4022",
+            "stop_name": "KARREVELD"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "6004",
+            "stop_name": "MENNEKENS"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "6005",
+            "stop_name": "JOSEPH BAECK"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "3253F",
+            "stop_name": "GARE DE L'OUEST"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "3257F",
+            "stop_name": "QUATRE-VENTS"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "3263F",
+            "stop_name": "DUCHESSE BRABANT"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "6648F",
+            "stop_name": "TRIANGLE"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "6650F",
+            "stop_name": "ARTS ET METIERS"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "6655",
+            "stop_name": "PTE D'ANDERLECHT"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "6656",
+            "stop_name": "BODEGHEM"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "6657",
+            "stop_name": "LEMONNIER"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "0631",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "2539F",
+            "stop_name": "SUEDE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "2544F",
+            "stop_name": "AVENUE DU ROI"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "2548F",
+            "stop_name": "IMPRIMERIE"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "5718",
+            "stop_name": "ORBAN"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "5123",
+            "stop_name": "WIELS"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "5120",
+            "stop_name": "UNION"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "5119",
+            "stop_name": "CHATAIGNES"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "2603",
+            "stop_name": "ZAMAN-FOREST NAT."
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "2604F",
+            "stop_name": "MONACO"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "5121F",
+            "stop_name": "FOREST CENTRE"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "5719H",
+            "stop_name": "SAINT-DENIS"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "5720F",
+            "stop_name": "MAX WALLER"
+        }, {
+            "stop_sequence": "32",
+            "stop_id": "2608F",
+            "stop_name": "BEMPT"
+        }, {
+            "stop_sequence": "33",
+            "stop_id": "5721G",
+            "stop_name": "NEERSTALLE"
+        }, {
+            "stop_sequence": "34",
+            "stop_id": "5722F",
+            "stop_name": "MERLO"
+        }, {
+            "stop_sequence": "35",
+            "stop_id": "5723G",
+            "stop_name": "CARREFOUR STALLE"
+        }, {
+            "stop_sequence": "36",
+            "stop_id": "5724",
+            "stop_name": "KEYENBEMPT"
+        }, {
+            "stop_sequence": "37",
+            "stop_id": "5725",
+            "stop_name": "RODTS"
+        }, {
+            "stop_sequence": "38",
+            "stop_id": "5729",
+            "stop_name": "GRAND'ROUTE"
+        }, {
+            "stop_sequence": "39",
+            "stop_id": "5727F",
+            "stop_name": "DROGENBOS CHATEAU"
+        }]
+    ]
+}

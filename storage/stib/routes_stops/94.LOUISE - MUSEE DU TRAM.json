@@ -1,0 +1,161 @@
+{
+    "route_long_name": "LOUISE - MUSEE DU TRAM",
+    "route_short_name": "94",
+    "directions": ["LOUISE", "MUSEE DU TRAM"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "3481",
+            "stop_name": "BUYL"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5208",
+            "stop_name": "CAMBRE-ETOILE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1046G",
+            "stop_name": "LEGRAND"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "5466",
+            "stop_name": "ABBAYE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "5467",
+            "stop_name": "VLEURGAT"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5475",
+            "stop_name": "BAILLI"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "5469",
+            "stop_name": "DEFACQZ"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "5470",
+            "stop_name": "STEPHANIE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "6351",
+            "stop_name": "LOUISE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "6361",
+            "stop_name": "LOUISE"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "2397F",
+            "stop_name": "BUYL"
+        }, {
+            "stop_sequence": "1",
+            "stop_id": "6314",
+            "stop_name": "LOUISE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5405",
+            "stop_name": "STEPHANIE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5407F",
+            "stop_name": "ULB"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "5406",
+            "stop_name": "DEFACQZ"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "5413F",
+            "stop_name": "SOLBOSCH"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "5404",
+            "stop_name": "BAILLI"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "5414F",
+            "stop_name": "MARIE-JOSE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "5408",
+            "stop_name": "VLEURGAT"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "5415F",
+            "stop_name": "BRESIL"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5409",
+            "stop_name": "ABBAYE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5416F",
+            "stop_name": "BOONDAEL GARE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "1047F",
+            "stop_name": "LEGRAND"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "5418",
+            "stop_name": "HIPPOD. BOITSFORT"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "5258",
+            "stop_name": "CAMBRE-ETOILE"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "5419",
+            "stop_name": "COCCINELLES"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "5420F",
+            "stop_name": "BOITSFORT GARE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "5421",
+            "stop_name": "DELLEUR"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "5422",
+            "stop_name": "WIENER"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "5423",
+            "stop_name": "FAUCONNERIE"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "2077",
+            "stop_name": "TENREUKEN"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "2086",
+            "stop_name": "PARC SENY"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "5426",
+            "stop_name": "HERRMANN-DEBROUX"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "5269F",
+            "stop_name": "AUDERGHEM-SHOP."
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "5270F",
+            "stop_name": "ROND-PT SOUVERAIN"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "5271F",
+            "stop_name": "EMPAIN"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "5272F",
+            "stop_name": "MUSEE DU TRAM"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "1547F",
+            "stop_name": "MUSEE DU TRAM"
+        }]
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "route_long_name": "GARE CENTRALE - FORT-JACO",
+    "route_short_name": "N10",
+    "directions": ["GARE CENTRALE", "FORT-JACO"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "2150",
+            "stop_name": "FORT-JACO"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5053B",
+            "stop_name": "ALPHONSE XIII"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "2002",
+            "stop_name": "PLACE SAINT-JOB"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "6956B",
+            "stop_name": "SAINT-JOB GARE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "4804B",
+            "stop_name": "MERCURE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "4857B",
+            "stop_name": "OBSERVATOIRE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "1250",
+            "stop_name": "HOUZEAU"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "2131",
+            "stop_name": "LANGEVELD"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "2132",
+            "stop_name": "BRUNARD"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2133",
+            "stop_name": "CAVELL"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1323",
+            "stop_name": "STALLAERT"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "2134",
+            "stop_name": "GEORGES BRUGMANN"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "6406",
+            "stop_name": "LEPOUTRE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "6453",
+            "stop_name": "WASHINGTON"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1976",
+            "stop_name": "VAN EYCK"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1977",
+            "stop_name": "VLEURGAT"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "1986",
+            "stop_name": "BIARRITZ"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "6112",
+            "stop_name": "FLAGEY"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "1980",
+            "stop_name": "MALIBRAN"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "1981",
+            "stop_name": "BLYCKAERTS"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "1291",
+            "stop_name": "IDALIE"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "1292",
+            "stop_name": "QUART.ST-BONIFACE"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "2967B",
+            "stop_name": "MATONGE-PTE NAMUR"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "3622B",
+            "stop_name": "CLIQUET"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "1087",
+            "stop_name": "LOUISE"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "6353",
+            "stop_name": "PETIT SABLON"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "3567",
+            "stop_name": "ROYALE"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "6447",
+            "stop_name": "GARE CENTRALE"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "6447",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2301",
+            "stop_name": "ARENBERG"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "2302",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "2303",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2212",
+            "stop_name": "BOURSE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "2255",
+            "stop_name": "SIX JETONS"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2245",
+            "stop_name": "ANNEESSENS"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "1063",
+            "stop_name": "CESAR DE PAEPE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1376B",
+            "stop_name": "GRAND SABLON"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "1128",
+            "stop_name": "PETIT SABLON"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1726",
+            "stop_name": "LOUISE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "3621B",
+            "stop_name": "CLIQUET"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "4952",
+            "stop_name": "PORTE DE NAMUR"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "3620B",
+            "stop_name": "LONDRES"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1906",
+            "stop_name": "IDALIE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1909",
+            "stop_name": "BLYCKAERTS"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "1910",
+            "stop_name": "MALIBRAN"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "3122",
+            "stop_name": "FLAGEY"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "1903",
+            "stop_name": "BIARRITZ"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "1912",
+            "stop_name": "VLEURGAT"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "4705",
+            "stop_name": "WASHINGTON"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "6408",
+            "stop_name": "LEPOUTRE"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "2122",
+            "stop_name": "GEORGES BRUGMANN"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "1322",
+            "stop_name": "STALLAERT"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "2123",
+            "stop_name": "CAVELL"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "2124",
+            "stop_name": "BRUNARD"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "2125",
+            "stop_name": "LANGEVELD"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "1251",
+            "stop_name": "HOUZEAU"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "4854C",
+            "stop_name": "OBSERVATOIRE"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "4853",
+            "stop_name": "MERCURE"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "6931B",
+            "stop_name": "SAINT-JOB GARE"
+        }, {
+            "stop_sequence": "32",
+            "stop_id": "2010",
+            "stop_name": "PLACE SAINT-JOB"
+        }, {
+            "stop_sequence": "33",
+            "stop_id": "5032B",
+            "stop_name": "ALPHONSE XIII"
+        }, {
+            "stop_sequence": "34",
+            "stop_id": "2148",
+            "stop_name": "FORT-JACO"
+        }]
+    ]
+}

@@ -41,25 +41,9 @@
     </head>
     <body>
     
-        <ul>
-            @foreach ($routes as $route)
-                
-                @foreach ($route -> route_direction as $slug=> $direction)
+       
+       
 
-                <li> 
-                    <a href="{{ route('show',[
-                        'id'=> $route -> route_short_name,
-                        'direction' => $slug
-                        ]
-                        ) }}">
-                            <span class="numero" style="background-color:{{ $route -> route_color }}; color:{{$route -> route_text_color}}">{{ $route -> route_short_name }} </span>
-                            <span class="nom" >{{ $direction }} </span>
-                    </a>
-                </li>
 
-                @endforeach
-                
-            @endforeach
-        </ul>
     </body>
 </html>

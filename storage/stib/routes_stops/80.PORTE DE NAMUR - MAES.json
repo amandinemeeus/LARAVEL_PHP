@@ -1,0 +1,245 @@
+{
+    "route_long_name": "PORTE DE NAMUR - MAES",
+    "route_short_name": "80",
+    "directions": ["PORTE DE NAMUR", "MAES"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "3201",
+            "stop_name": "MAES"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "3199",
+            "stop_name": "AERODROME"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "3203",
+            "stop_name": "MIDDELWEG"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "3204",
+            "stop_name": "SABCA"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3214",
+            "stop_name": "BORDET STATION"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5045",
+            "stop_name": "DA VINCI"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3207",
+            "stop_name": "JULES BORDET"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "3200",
+            "stop_name": "DIABLOTINS"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "3401",
+            "stop_name": "CIM. DE BRUXELLES"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "3210B",
+            "stop_name": "ARTEMIS"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "3898",
+            "stop_name": "PADUWA"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "3904",
+            "stop_name": "CARENE"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "3905",
+            "stop_name": "COLONEL BOURG"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "3906",
+            "stop_name": "FEVRIER"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "3908",
+            "stop_name": "HEYDENBERG"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1152",
+            "stop_name": "MEUDON"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "1153",
+            "stop_name": "DEGROOFF"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "1154",
+            "stop_name": "GEORGES HENRI"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "2287",
+            "stop_name": "MONTGOMERY"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "1156",
+            "stop_name": "MERODE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "1159",
+            "stop_name": "GAULOIS"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "3912",
+            "stop_name": "LEMAN"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "3921",
+            "stop_name": "JOURDAN"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "1769",
+            "stop_name": "MUSEUM"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "1983",
+            "stop_name": "IDALIE"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "4367B",
+            "stop_name": "LUXEMBOURG"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "1776",
+            "stop_name": "SCIENCE"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "6432",
+            "stop_name": "TRONE"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "3504",
+            "stop_name": "PORTE DE NAMUR"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "1705",
+            "stop_name": "PORTE DE NAMUR"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1705",
+            "stop_name": "PORTE DE NAMUR"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "6433",
+            "stop_name": "TRONE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1729",
+            "stop_name": "SCIENCE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1233",
+            "stop_name": "LUXEMBOURG"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "1706",
+            "stop_name": "IDALIE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1728",
+            "stop_name": "MUSEUM"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3160",
+            "stop_name": "ETANGS"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "3953",
+            "stop_name": "LEMAN"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1135",
+            "stop_name": "GAULOIS"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "1136",
+            "stop_name": "MERODE"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2283",
+            "stop_name": "MONTGOMERY"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "1113",
+            "stop_name": "ICHEC"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1139",
+            "stop_name": "GEORGES HENRI"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "1140",
+            "stop_name": "DEGROOFF"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1141",
+            "stop_name": "MEUDON"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "3954",
+            "stop_name": "HEYDENBERG"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "3952",
+            "stop_name": "FEVRIER"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "3956",
+            "stop_name": "COLONEL BOURG"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "3957",
+            "stop_name": "CARENE"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "3272",
+            "stop_name": "PADUWA"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "3273",
+            "stop_name": "ARTEMIS"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "3274",
+            "stop_name": "CIM. DE BRUXELLES"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "3285",
+            "stop_name": "DIABLOTINS"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "3276",
+            "stop_name": "JULES BORDET"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "5046",
+            "stop_name": "DA VINCI"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "5363",
+            "stop_name": "BORDET STATION"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "3279",
+            "stop_name": "SABCA"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "3280",
+            "stop_name": "MIDDELWEG"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "3201",
+            "stop_name": "MAES"
+        }]
+    ]
+}

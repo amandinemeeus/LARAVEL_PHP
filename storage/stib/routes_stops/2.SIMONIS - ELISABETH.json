@@ -1,0 +1,161 @@
+{
+    "route_long_name": "SIMONIS - ELISABETH",
+    "route_short_name": "2",
+    "directions": ["SIMONIS", "ELISABETH"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "8471",
+            "stop_name": "ELISABETH"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "8461",
+            "stop_name": "RIBAUCOURT"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "8441",
+            "stop_name": "YSER"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "8431",
+            "stop_name": "ROGIER"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "8421",
+            "stop_name": "BOTANIQUE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "8411",
+            "stop_name": "MADOU"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "8401",
+            "stop_name": "ARTS-LOI"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "8301",
+            "stop_name": "TRONE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "8311",
+            "stop_name": "PORTE DE NAMUR"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "8321",
+            "stop_name": "LOUISE"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "8331",
+            "stop_name": "HOTEL DES MONNAIES"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "8341",
+            "stop_name": "PORTE DE HAL"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "8351",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "8361",
+            "stop_name": "CLEMENCEAU"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "8371",
+            "stop_name": "DELACROIX"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "8381",
+            "stop_name": "GARE DE L'OUEST"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "8743",
+            "stop_name": "BEEKKANT"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "8753",
+            "stop_name": "OSSEGHEM"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "8763",
+            "stop_name": "SIMONIS"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "8372",
+            "stop_name": "DELACROIX"
+        }, {
+            "stop_sequence": "1",
+            "stop_id": "8764",
+            "stop_name": "SIMONIS"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "8362",
+            "stop_name": "CLEMENCEAU"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "8754",
+            "stop_name": "OSSEGHEM"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "8352",
+            "stop_name": "GARE DU MIDI"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "8744",
+            "stop_name": "BEEKKANT"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "8342",
+            "stop_name": "PORTE DE HAL"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "8382",
+            "stop_name": "GARE DE L'OUEST"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "8332",
+            "stop_name": "HOTEL DES MONNAIES"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "8322",
+            "stop_name": "LOUISE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "8312",
+            "stop_name": "PORTE DE NAMUR"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "8302",
+            "stop_name": "TRONE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "8402",
+            "stop_name": "ARTS-LOI"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "8412",
+            "stop_name": "MADOU"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "8422",
+            "stop_name": "BOTANIQUE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "8432",
+            "stop_name": "ROGIER"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "8442",
+            "stop_name": "YSER"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "8462",
+            "stop_name": "RIBAUCOURT"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "8472",
+            "stop_name": "ELISABETH"
+        }]
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "route_long_name": "GARE CENTRALE - UCCLE CALEVOET",
+    "route_short_name": "N11",
+    "directions": ["GARE CENTRALE", "UCCLE CALEVOET"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "2168",
+            "stop_name": "HOMBORCH"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1953",
+            "stop_name": "CABRIS"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1954",
+            "stop_name": "LINKEBEEK GARE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1955",
+            "stop_name": "BRAVES"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "1963",
+            "stop_name": "VIEUX CHEMIN"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1957B",
+            "stop_name": "MOENSBERG GARE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "1958B",
+            "stop_name": "GRIOTTES"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "1959",
+            "stop_name": "BIGARREAUX"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1965",
+            "stop_name": "BOURDON"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "7651",
+            "stop_name": "UCCLE CALEVOET"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "7652",
+            "stop_name": "HERCULE POIROT"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "7653",
+            "stop_name": "MYOSOTIS"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1338",
+            "stop_name": "EGIDE VAN OPHEM"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "5917",
+            "stop_name": "WAGON"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1345",
+            "stop_name": "GLOBE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "5854",
+            "stop_name": "XAVIER DE BUE"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "5855",
+            "stop_name": "BENS"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "5856",
+            "stop_name": "ROOSENDAEL"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "5857",
+            "stop_name": "COGHEN"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "5858",
+            "stop_name": "MOLIERE-LONGCHAMP"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "5859",
+            "stop_name": "TIMMERMANS"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "1221",
+            "stop_name": "ALBERT"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "2965",
+            "stop_name": "PRISON"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "2959",
+            "stop_name": "MA CAMPAGNE"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "6430",
+            "stop_name": "JANSON"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "5066",
+            "stop_name": "FAIDER"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "5067",
+            "stop_name": "STEPHANIE"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "1726",
+            "stop_name": "LOUISE"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "3621B",
+            "stop_name": "CLIQUET"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "4952",
+            "stop_name": "PORTE DE NAMUR"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "1124",
+            "stop_name": "TRONE"
+        }, {
+            "stop_sequence": "32",
+            "stop_id": "3567",
+            "stop_name": "ROYALE"
+        }, {
+            "stop_sequence": "33",
+            "stop_id": "6447",
+            "stop_name": "GARE CENTRALE"
+        }],
+        []
+    ]
+}

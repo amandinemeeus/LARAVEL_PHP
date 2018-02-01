@@ -1,0 +1,213 @@
+{
+    "route_long_name": "GARE CENTRALE - MUSEE DU TRAM",
+    "route_short_name": "N06",
+    "directions": ["GARE CENTRALE", "MUSEE DU TRAM"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1500",
+            "stop_name": "MUSEE DU TRAM"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1859",
+            "stop_name": "CHIEN VERT"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1874",
+            "stop_name": "JULES CESAR"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1875",
+            "stop_name": "LEOPOLD II"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2287",
+            "stop_name": "MONTGOMERY"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1156",
+            "stop_name": "MERODE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "1157",
+            "stop_name": "GAULOIS"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "1158",
+            "stop_name": "NERVIENS"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1417B",
+            "stop_name": "BREYDEL"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "3399",
+            "stop_name": "SCHUMAN"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1271B",
+            "stop_name": "FROISSART"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "3921",
+            "stop_name": "JOURDAN"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1769",
+            "stop_name": "MUSEUM"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "1983",
+            "stop_name": "IDALIE"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "3623B",
+            "stop_name": "LONDRES"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "3504",
+            "stop_name": "PORTE DE NAMUR"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "3622B",
+            "stop_name": "CLIQUET"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "1087",
+            "stop_name": "LOUISE"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "6353",
+            "stop_name": "PETIT SABLON"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "3567",
+            "stop_name": "ROYALE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "3323",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "6443",
+            "stop_name": "GARE CENTRALE"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "6447",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2301",
+            "stop_name": "ARENBERG"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "2302",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "2303",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2212",
+            "stop_name": "BOURSE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "2255",
+            "stop_name": "SIX JETONS"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2245",
+            "stop_name": "ANNEESSENS"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "1063",
+            "stop_name": "CESAR DE PAEPE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1376B",
+            "stop_name": "GRAND SABLON"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "1128",
+            "stop_name": "PETIT SABLON"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1726",
+            "stop_name": "LOUISE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "3621B",
+            "stop_name": "CLIQUET"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "4952",
+            "stop_name": "PORTE DE NAMUR"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "3620B",
+            "stop_name": "LONDRES"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1706",
+            "stop_name": "IDALIE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1728",
+            "stop_name": "MUSEUM"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "3160",
+            "stop_name": "ETANGS"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "3158",
+            "stop_name": "JOURDAN"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "1416",
+            "stop_name": "FROISSART"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "1548B",
+            "stop_name": "SCHUMAN"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "1134",
+            "stop_name": "NERVIENS"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "1135",
+            "stop_name": "GAULOIS"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "1136",
+            "stop_name": "MERODE"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "2283",
+            "stop_name": "MONTGOMERY"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "1544",
+            "stop_name": "LEOPOLD II"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "1545",
+            "stop_name": "JULES CESAR"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "1546",
+            "stop_name": "CHIEN VERT"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "1500",
+            "stop_name": "MUSEE DU TRAM"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "5281",
+            "stop_name": "MUSEE DU TRAM"
+        }]
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "route_long_name": "GARE CENTRALE - BERCHEM STATION",
+    "route_short_name": "N16",
+    "directions": ["GARE CENTRALE", "BERCHEM STATION"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "4011",
+            "stop_name": "BERCHEM STATION"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "4002B",
+            "stop_name": "BERCHEM-SHOPPING"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1099",
+            "stop_name": "PARC MONNET"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1116",
+            "stop_name": "HUNDERENVELD"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "5102",
+            "stop_name": "AZUR"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5105",
+            "stop_name": "VEREMAN"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "1306",
+            "stop_name": "SCHWEITZER"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "1094",
+            "stop_name": "VALIDA"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1108",
+            "stop_name": "GOFFIN"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "1304",
+            "stop_name": "COLLEGE S.-COEUR"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1313",
+            "stop_name": "BOSSAERT-BASILIQ."
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "1314",
+            "stop_name": "BESME"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1112",
+            "stop_name": "SIMONIS"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "1114B",
+            "stop_name": "VANHUFFEL"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1115",
+            "stop_name": "AUTRIQUE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "6471",
+            "stop_name": "ETANGS NOIRS"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "3009",
+            "stop_name": "BORNE"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "3260",
+            "stop_name": "PORTE DE FLANDRE"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "3261",
+            "stop_name": "DANSAERT"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "2212",
+            "stop_name": "BOURSE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "2255",
+            "stop_name": "SIX JETONS"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "2245",
+            "stop_name": "ANNEESSENS"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "1063",
+            "stop_name": "CESAR DE PAEPE"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "2234",
+            "stop_name": "BIBLIOTHEQUE"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "1144",
+            "stop_name": "GARE CENTRALE"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1144",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2301",
+            "stop_name": "ARENBERG"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "2302",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "2303",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3320B",
+            "stop_name": "BOURSE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "3221",
+            "stop_name": "DANSAERT"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3222",
+            "stop_name": "PORTE DE FLANDRE"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "1245",
+            "stop_name": "TRIANGLE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1237",
+            "stop_name": "ELEPHANT"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "1244",
+            "stop_name": "GROENINGHE"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1202",
+            "stop_name": "OSSEGHEM"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "6470",
+            "stop_name": "ETANGS NOIRS"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1179",
+            "stop_name": "AUTRIQUE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "1180",
+            "stop_name": "VANHUFFEL"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1183",
+            "stop_name": "SIMONIS"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "4152",
+            "stop_name": "PARC ELISABETH"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "1303",
+            "stop_name": "RIETHUISEN"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "4153",
+            "stop_name": "COLLEGE S.-COEUR"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "1199",
+            "stop_name": "GOFFIN"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "1236",
+            "stop_name": "VALIDA"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "1307",
+            "stop_name": "SCHWEITZER"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "5168",
+            "stop_name": "VEREMAN"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "5174",
+            "stop_name": "AZUR"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "1195",
+            "stop_name": "HUNDERENVELD"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "1196",
+            "stop_name": "PARC MONNET"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "4059",
+            "stop_name": "BERCHEM-SHOPPING"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "4011",
+            "stop_name": "BERCHEM STATION"
+        }]
+    ]
+}

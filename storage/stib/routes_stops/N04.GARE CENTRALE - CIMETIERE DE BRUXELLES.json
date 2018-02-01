@@ -1,0 +1,89 @@
+{
+    "route_long_name": "GARE CENTRALE - CIMETIERE DE BRUXELLES",
+    "route_short_name": "N04",
+    "directions": ["GARE CENTRALE", "CIMETIERE DE BRUXELLES"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "3401",
+            "stop_name": "CIM. DE BRUXELLES"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "3210B",
+            "stop_name": "ARTEMIS"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1535",
+            "stop_name": "PADUWA"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "3402",
+            "stop_name": "GUILLAUME"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3240",
+            "stop_name": "OPTIMISME"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "3704",
+            "stop_name": "PAUL LEDUC"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3705",
+            "stop_name": "FRANS COURTENS"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "5308",
+            "stop_name": "LEOPOLD III"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "2248",
+            "stop_name": "MEISER"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "3298",
+            "stop_name": "PATRIE"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "3299",
+            "stop_name": "BIENFAITEURS"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "3309",
+            "stop_name": "COTEAUX"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "6416",
+            "stop_name": "ROBIANO"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "6411",
+            "stop_name": "SAINTE-MARIE"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "5735",
+            "stop_name": "GILLON"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "6438",
+            "stop_name": "BOTANIQUE"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "6308",
+            "stop_name": "CONGRES"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "3331",
+            "stop_name": "PARC"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "6442",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "6443",
+            "stop_name": "GARE CENTRALE"
+        }],
+        []
+    ]
+}

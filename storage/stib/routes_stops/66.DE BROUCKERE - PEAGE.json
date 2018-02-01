@@ -1,0 +1,233 @@
+{
+    "route_long_name": "DE BROUCKERE - PEAGE",
+    "route_short_name": "66",
+    "directions": ["DE BROUCKERE", "PEAGE"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "3284",
+            "stop_name": "PEAGE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "3661",
+            "stop_name": "CIM. DE BRUXELLES"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "3210B",
+            "stop_name": "ARTEMIS"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1535",
+            "stop_name": "PADUWA"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3402",
+            "stop_name": "GUILLAUME"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "3403",
+            "stop_name": "DUNANT"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3417",
+            "stop_name": "EVERE SHOPPING"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "3419",
+            "stop_name": "CONSCIENCE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "3411",
+            "stop_name": "KURTH"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "3407",
+            "stop_name": "KENNIS"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "3408",
+            "stop_name": "LATINIS"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "3409",
+            "stop_name": "LOUIS BERTRAND"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "3410",
+            "stop_name": "CROSSING"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "3414",
+            "stop_name": "AZALEES"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "3309",
+            "stop_name": "COTEAUX"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "6416",
+            "stop_name": "ROBIANO"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "3325",
+            "stop_name": "MERIDIEN"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "6062",
+            "stop_name": "RUE TRAVERSIERE"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "3313",
+            "stop_name": "QUETELET"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "3332",
+            "stop_name": "MADOU"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "3358",
+            "stop_name": "PRESSE"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "3359",
+            "stop_name": "TREURENBERG"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "3331",
+            "stop_name": "PARC"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "6442",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "6447",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "2301",
+            "stop_name": "ARENBERG"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "2302",
+            "stop_name": "DE BROUCKERE"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1465",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2296",
+            "stop_name": "ARENBERG"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "6445",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "3351",
+            "stop_name": "PARC"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3353",
+            "stop_name": "TREURENBERG"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "3354",
+            "stop_name": "PRESSE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3355",
+            "stop_name": "MADOU"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "9060",
+            "stop_name": "QUETELET"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "9064",
+            "stop_name": "RUE TRAVERSIERE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "6369",
+            "stop_name": "MERIDIEN"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "6418",
+            "stop_name": "ROBIANO"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "6203",
+            "stop_name": "COTEAUX"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "3451",
+            "stop_name": "AZALEES"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "3412",
+            "stop_name": "CROSSING"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "2345",
+            "stop_name": "LOUIS BERTRAND"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "2346",
+            "stop_name": "LATINIS"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "3454",
+            "stop_name": "KENNIS"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "3449",
+            "stop_name": "KURTH"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "3470",
+            "stop_name": "CONSCIENCE"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "3448B",
+            "stop_name": "EVERE GARE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "3450",
+            "stop_name": "EVERE SHOPPING"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "3459",
+            "stop_name": "DUNANT"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "3460",
+            "stop_name": "GUILLAUME"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "3272",
+            "stop_name": "PADUWA"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "3273",
+            "stop_name": "ARTEMIS"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "3274",
+            "stop_name": "CIM. DE BRUXELLES"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "3285",
+            "stop_name": "DIABLOTINS"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "3286B",
+            "stop_name": "VILLON"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "3288",
+            "stop_name": "PEAGE"
+        }]
+    ]
+}

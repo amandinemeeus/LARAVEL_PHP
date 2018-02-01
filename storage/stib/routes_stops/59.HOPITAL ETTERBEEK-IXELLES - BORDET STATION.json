@@ -1,0 +1,133 @@
+{
+    "route_long_name": "HOPITAL ETTERBEEK-IXELLES - BORDET STATION",
+    "route_short_name": "59",
+    "directions": ["HOPITAL ETTERBEEK-IXELLES", "BORDET STATION"],
+    "stops": [
+        [],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "3125",
+            "stop_name": "HOP. ETT.-IXELLES"
+        }, {
+            "stop_sequence": "1",
+            "stop_id": "6459",
+            "stop_name": "PRINC. ELISABETH"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "3177",
+            "stop_name": "SCHAERBEEK GARE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "6158",
+            "stop_name": "LEVURE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1280B",
+            "stop_name": "FLAGEY"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "3180",
+            "stop_name": "HUART- HAMOIR"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "3155",
+            "stop_name": "WERY"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "3181",
+            "stop_name": "ANATOLE FRANCE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3156",
+            "stop_name": "NATATION"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3172",
+            "stop_name": "CHAUMONTEL"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "3160",
+            "stop_name": "ETANGS"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "3173",
+            "stop_name": "CARLI"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3158",
+            "stop_name": "JOURDAN"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3174",
+            "stop_name": "PICARDIE"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "3159",
+            "stop_name": "PARC LEOPOLD"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "3175B",
+            "stop_name": "SAINT-VINCENT"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "3176",
+            "stop_name": "VANDENHOVEN"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "6464",
+            "stop_name": "MAELBEEK"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2970",
+            "stop_name": "LIVINGSTONE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "5299",
+            "stop_name": "BORDET STATION"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1569B",
+            "stop_name": "GUTENBERG"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "3179",
+            "stop_name": "HAREN-ATELIER"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "1582",
+            "stop_name": "SAINT-JOSSE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "3130",
+            "stop_name": "HAREN-STIB"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "3162",
+            "stop_name": "HOUWAERT"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "3163",
+            "stop_name": "GEEFS"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "3164",
+            "stop_name": "COTEAUX"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "3165",
+            "stop_name": "HERMAN"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "3166",
+            "stop_name": "ERNEST LAUDE"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "3167",
+            "stop_name": "EENENS"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "3168",
+            "stop_name": "VERBOEKHOVEN"
+        }]
+    ]
+}

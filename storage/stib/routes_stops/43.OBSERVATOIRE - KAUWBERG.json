@@ -1,0 +1,313 @@
+{
+    "route_long_name": "OBSERVATOIRE - KAUWBERG",
+    "route_short_name": "43",
+    "directions": ["OBSERVATOIRE", "KAUWBERG"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "2151",
+            "stop_name": "KAUWBERG"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2153",
+            "stop_name": "DIRECTOIRE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1739",
+            "stop_name": "DE WANSIJN"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1741",
+            "stop_name": "BENAETS"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2108",
+            "stop_name": "PLACE SAINT-JOB"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "2110B",
+            "stop_name": "VIVIER D'OIE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2140",
+            "stop_name": "RACING"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "2142",
+            "stop_name": "FORT-JACO"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "2143B",
+            "stop_name": "RONCES"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2144",
+            "stop_name": "VAN BEVER"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2145",
+            "stop_name": "PRINCE D'ORANGE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "2146",
+            "stop_name": "NAPOLEON"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "2147B",
+            "stop_name": "SAINTE-ALLIANCE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "2156",
+            "stop_name": "GUI"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "2157",
+            "stop_name": "VERREWINKEL"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "2161",
+            "stop_name": "PASTEUR"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "2167",
+            "stop_name": "GAZELLE"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "2168",
+            "stop_name": "HOMBORCH"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "1953",
+            "stop_name": "CABRIS"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "1954",
+            "stop_name": "LINKEBEEK GARE"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "1955",
+            "stop_name": "BRAVES"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "1963",
+            "stop_name": "VIEUX CHEMIN"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "1957B",
+            "stop_name": "MOENSBERG GARE"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "1958B",
+            "stop_name": "GRIOTTES"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "1959",
+            "stop_name": "BIGARREAUX"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "1965",
+            "stop_name": "BOURDON"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "7651",
+            "stop_name": "UCCLE CALEVOET"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "7652",
+            "stop_name": "HERCULE POIROT"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "7653",
+            "stop_name": "MYOSOTIS"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "1338",
+            "stop_name": "EGIDE VAN OPHEM"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "5917",
+            "stop_name": "WAGON"
+        }, {
+            "stop_sequence": "32",
+            "stop_id": "1985",
+            "stop_name": "GLOBE"
+        }, {
+            "stop_sequence": "33",
+            "stop_id": "4075",
+            "stop_name": "HEROS"
+        }, {
+            "stop_sequence": "34",
+            "stop_id": "1943",
+            "stop_name": "STATUAIRES"
+        }, {
+            "stop_sequence": "35",
+            "stop_id": "1968",
+            "stop_name": "ZEECRABBE"
+        }, {
+            "stop_sequence": "36",
+            "stop_id": "1969",
+            "stop_name": "HOUZEAU"
+        }, {
+            "stop_sequence": "37",
+            "stop_id": "1251",
+            "stop_name": "HOUZEAU"
+        }, {
+            "stop_sequence": "38",
+            "stop_id": "4854C",
+            "stop_name": "OBSERVATOIRE"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "4854C",
+            "stop_name": "OBSERVATOIRE"
+        }, {
+            "stop_sequence": "1",
+            "stop_id": "1951",
+            "stop_name": "HEROS"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1250",
+            "stop_name": "HOUZEAU"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2355",
+            "stop_name": "HEROS"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1921",
+            "stop_name": "HOUZEAU"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1984",
+            "stop_name": "GLOBE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "5952",
+            "stop_name": "WAGON"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1942",
+            "stop_name": "STATUAIRES"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "5953",
+            "stop_name": "EGIDE VAN OPHEM"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "7654",
+            "stop_name": "MYOSOTIS"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "7655",
+            "stop_name": "HERCULE POIROT"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "7656",
+            "stop_name": "UCCLE CALEVOET"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1937",
+            "stop_name": "BOURDON"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "1931",
+            "stop_name": "BIGARREAUX"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "1932",
+            "stop_name": "GRIOTTES"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "1933B",
+            "stop_name": "MOENSBERG GARE"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1939",
+            "stop_name": "VIEUX CHEMIN"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "1935",
+            "stop_name": "BRAVES"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1936",
+            "stop_name": "LINKEBEEK GARE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1944",
+            "stop_name": "HOSPICES"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "1938",
+            "stop_name": "HOMBORCH"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "2099",
+            "stop_name": "GAZELLE"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "2112",
+            "stop_name": "PASTEUR"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "2103",
+            "stop_name": "VERREWINKEL"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "2104",
+            "stop_name": "GUI"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "2116B",
+            "stop_name": "SAINTE-ALLIANCE"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "2117B",
+            "stop_name": "NAPOLEON"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "2118",
+            "stop_name": "PRINCE D'ORANGE"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "2119",
+            "stop_name": "VAN BEVER"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "2120",
+            "stop_name": "RONCES"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "2136",
+            "stop_name": "FORT-JACO"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "2137",
+            "stop_name": "RACING"
+        }, {
+            "stop_sequence": "29",
+            "stop_id": "2138B",
+            "stop_name": "VIVIER D'OIE"
+        }, {
+            "stop_sequence": "30",
+            "stop_id": "2109B",
+            "stop_name": "VIVIER D'OIE"
+        }, {
+            "stop_sequence": "31",
+            "stop_id": "2152",
+            "stop_name": "PLACE SAINT-JOB"
+        }, {
+            "stop_sequence": "32",
+            "stop_id": "1742",
+            "stop_name": "BENAETS"
+        }, {
+            "stop_sequence": "33",
+            "stop_id": "1736",
+            "stop_name": "DE WANSIJN"
+        }, {
+            "stop_sequence": "34",
+            "stop_id": "2151",
+            "stop_name": "KAUWBERG"
+        }]
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "route_long_name": "ERASME - HERRMANN-DEBROUX",
+    "route_short_name": "5",
+    "directions": ["ERASME", "HERRMANN-DEBROUX"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "8261",
+            "stop_name": "HERRMANN-DEBROUX"
+        }, {
+            "stop_sequence": "1",
+            "stop_id": "8743",
+            "stop_name": "BEEKKANT"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "8251",
+            "stop_name": "DEMEY"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "8731",
+            "stop_name": "GARE DE L'OUEST"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "8241",
+            "stop_name": "BEAULIEU"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "8721",
+            "stop_name": "JACQUES BREL"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "8231",
+            "stop_name": "DELTA"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "8711",
+            "stop_name": "AUMALE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "8221",
+            "stop_name": "HANKAR"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "8701",
+            "stop_name": "SAINT-GUIDON"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "8211",
+            "stop_name": "PETILLON"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "8691",
+            "stop_name": "VEEWEYDE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "8201",
+            "stop_name": "THIEFFRY"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "8681",
+            "stop_name": "BIZET"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "8071",
+            "stop_name": "MERODE"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "8671",
+            "stop_name": "LA ROUE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "8061",
+            "stop_name": "SCHUMAN"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "8661",
+            "stop_name": "CERIA"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "8051",
+            "stop_name": "MAELBEEK"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "8651",
+            "stop_name": "EDDY MERCKX"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "8041",
+            "stop_name": "ARTS-LOI"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "8641",
+            "stop_name": "ERASME"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "8031",
+            "stop_name": "PARC"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "8021",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "8011",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "8271",
+            "stop_name": "SAINTE-CATHERINE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "8281",
+            "stop_name": "COMTE DE FLANDRE"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "8291",
+            "stop_name": "ETANGS NOIRS"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "8741",
+            "stop_name": "BEEKKANT"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "8642",
+            "stop_name": "ERASME"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "8652",
+            "stop_name": "EDDY MERCKX"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "8662",
+            "stop_name": "CERIA"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "8672",
+            "stop_name": "LA ROUE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "8682",
+            "stop_name": "BIZET"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "8692",
+            "stop_name": "VEEWEYDE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "8702",
+            "stop_name": "SAINT-GUIDON"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "8712",
+            "stop_name": "AUMALE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "8722",
+            "stop_name": "JACQUES BREL"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "8732",
+            "stop_name": "GARE DE L'OUEST"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "8742",
+            "stop_name": "BEEKKANT"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "8292",
+            "stop_name": "ETANGS NOIRS"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "8282",
+            "stop_name": "COMTE DE FLANDRE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "8272",
+            "stop_name": "SAINTE-CATHERINE"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "8012",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "8022",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "8032",
+            "stop_name": "PARC"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "8042",
+            "stop_name": "ARTS-LOI"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "8052",
+            "stop_name": "MAELBEEK"
+        }, {
+            "stop_sequence": "20",
+            "stop_id": "8062",
+            "stop_name": "SCHUMAN"
+        }, {
+            "stop_sequence": "21",
+            "stop_id": "8072",
+            "stop_name": "MERODE"
+        }, {
+            "stop_sequence": "22",
+            "stop_id": "8202",
+            "stop_name": "THIEFFRY"
+        }, {
+            "stop_sequence": "23",
+            "stop_id": "8212",
+            "stop_name": "PETILLON"
+        }, {
+            "stop_sequence": "24",
+            "stop_id": "8222",
+            "stop_name": "HANKAR"
+        }, {
+            "stop_sequence": "25",
+            "stop_id": "8232",
+            "stop_name": "DELTA"
+        }, {
+            "stop_sequence": "26",
+            "stop_id": "8242",
+            "stop_name": "BEAULIEU"
+        }, {
+            "stop_sequence": "27",
+            "stop_id": "8252",
+            "stop_name": "DEMEY"
+        }, {
+            "stop_sequence": "28",
+            "stop_id": "8262",
+            "stop_name": "HERRMANN-DEBROUX"
+        }]
+    ]
+}

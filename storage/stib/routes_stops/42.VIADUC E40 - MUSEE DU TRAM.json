@@ -1,0 +1,85 @@
+{
+    "route_long_name": "VIADUC E40 - MUSEE DU TRAM",
+    "route_short_name": "42",
+    "directions": ["VIADUC E40", "MUSEE DU TRAM"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1383",
+            "stop_name": "ROODEBEEK"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1540",
+            "stop_name": "CHARMILLE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1525",
+            "stop_name": "PEUPLIERS"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1551",
+            "stop_name": "MARCEL THIRY"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2022",
+            "stop_name": "THIRY-WOLUWE"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1043",
+            "stop_name": "HOF TER MUSSCHEN"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "2084",
+            "stop_name": "UCL SAINT-LUC"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "2085",
+            "stop_name": "DUNETTE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "9876",
+            "stop_name": "LENNEKE MARE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2071",
+            "stop_name": "ANNECY"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2078",
+            "stop_name": "SAINT-ANTOINE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "2087",
+            "stop_name": "THUMAS"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "2015",
+            "stop_name": "VIADUC E40"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1382",
+            "stop_name": "ROODEBEEK"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1305",
+            "stop_name": "VELLEMOLEN"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1998",
+            "stop_name": "DEBECKER"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "2003",
+            "stop_name": "VOOT"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2004",
+            "stop_name": "FABRY"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "5287",
+            "stop_name": "MUSEE DU TRAM"
+        }]
+    ]
+}

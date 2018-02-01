@@ -17,5 +17,5 @@ Route::get('/', function () {
 
 Route::get('lignes', 'LigneController@index');
 
-Route::get('ligne/{id}','LigneController@show')->name('show');
+Route::get('ligne/{id}/direction/{direction}','LigneController@show')->name('show');
 

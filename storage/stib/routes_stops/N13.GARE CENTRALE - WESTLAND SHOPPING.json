@@ -1,0 +1,81 @@
+{
+    "route_long_name": "GARE CENTRALE - WESTLAND SHOPPING",
+    "route_short_name": "N13",
+    "directions": ["GARE CENTRALE", "WESTLAND SHOPPING"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1203",
+            "stop_name": "WESTLAND SHOPPING"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1204",
+            "stop_name": "FRUITS"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1489",
+            "stop_name": "RENE HENRY"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "2518",
+            "stop_name": "DE LINDE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "2256B",
+            "stop_name": "SAINT-GUIDON"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "2257B",
+            "stop_name": "RESISTANCE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "6858C",
+            "stop_name": "DOUVRES"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "2259",
+            "stop_name": "CUREGHEM"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "2260",
+            "stop_name": "ALBERT I"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "2261",
+            "stop_name": "CLEMENCEAU"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "2262",
+            "stop_name": "LIVERPOOL"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "2263",
+            "stop_name": "PTE D'ANDERLECHT"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "2264",
+            "stop_name": "BUANDERIE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "2273",
+            "stop_name": "SIX JETONS"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "2245",
+            "stop_name": "ANNEESSENS"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1063",
+            "stop_name": "CESAR DE PAEPE"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "2234",
+            "stop_name": "BIBLIOTHEQUE"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "1144",
+            "stop_name": "GARE CENTRALE"
+        }],
+        []
+    ]
+}

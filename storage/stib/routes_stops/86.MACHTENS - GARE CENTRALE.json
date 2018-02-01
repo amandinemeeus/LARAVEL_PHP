@@ -1,0 +1,145 @@
+{
+    "route_long_name": "MACHTENS - GARE CENTRALE",
+    "route_short_name": "86",
+    "directions": ["MACHTENS", "GARE CENTRALE"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "3347",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2301",
+            "stop_name": "ARENBERG"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "2303",
+            "stop_name": "DE BROUCKERE"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "3320B",
+            "stop_name": "BOURSE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3221",
+            "stop_name": "DANSAERT"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "3222",
+            "stop_name": "PORTE DE FLANDRE"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3223",
+            "stop_name": "PORTE DE NINOVE"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "3228",
+            "stop_name": "TRIANGLE"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "3226B",
+            "stop_name": "DUCHESSE BRABANT"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "3225",
+            "stop_name": "QUATRE-VENTS"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "3230",
+            "stop_name": "GARE DE L'OUEST"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "3231",
+            "stop_name": "JOSEPH BAECK"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "3232",
+            "stop_name": "DUBOIS"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "3233",
+            "stop_name": "TAMARIS"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "3234",
+            "stop_name": "MACHTENS"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "3234",
+            "stop_name": "MACHTENS"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "3238",
+            "stop_name": "CONDOR"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "3252",
+            "stop_name": "TAMARIS"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "3281",
+            "stop_name": "DUBOIS"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "3282",
+            "stop_name": "JOSEPH BAECK"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "3253",
+            "stop_name": "GARE DE L'OUEST"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "3257",
+            "stop_name": "QUATRE-VENTS"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "3263B",
+            "stop_name": "DUCHESSE BRABANT"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "6648",
+            "stop_name": "TRIANGLE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "3259",
+            "stop_name": "PORTE DE NINOVE"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "3260",
+            "stop_name": "PORTE DE FLANDRE"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "3261",
+            "stop_name": "DANSAERT"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "2212",
+            "stop_name": "BOURSE"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "2255",
+            "stop_name": "SIX JETONS"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "2245",
+            "stop_name": "ANNEESSENS"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1063",
+            "stop_name": "CESAR DE PAEPE"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "2234",
+            "stop_name": "BIBLIOTHEQUE"
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "1144",
+            "stop_name": "GARE CENTRALE"
+        }, {
+            "stop_sequence": "19",
+            "stop_id": "3347",
+            "stop_name": "GARE CENTRALE"
+        }]
+    ]
+}

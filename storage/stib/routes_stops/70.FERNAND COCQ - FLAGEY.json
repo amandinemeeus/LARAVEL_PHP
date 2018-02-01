@@ -1,0 +1,41 @@
+{
+    "route_long_name": "FERNAND COCQ - FLAGEY",
+    "route_short_name": "70",
+    "directions": ["FERNAND COCQ", "FLAGEY"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "3572",
+            "stop_name": "FLAGEY"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "5612",
+            "stop_name": "MUSEE D'IXELLES"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1355",
+            "stop_name": "FERNAND COCQ"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1355",
+            "stop_name": "FERNAND COCQ"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "2929",
+            "stop_name": "VANNE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1353",
+            "stop_name": "BAILLI"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "7341",
+            "stop_name": "DAUTZENBERG"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "1354",
+            "stop_name": "FLAGEY"
+        }]
+    ]
+}

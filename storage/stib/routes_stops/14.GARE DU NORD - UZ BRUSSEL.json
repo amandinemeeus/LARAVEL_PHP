@@ -1,0 +1,149 @@
+{
+    "route_long_name": "GARE DU NORD - UZ BRUSSEL",
+    "route_short_name": "14",
+    "directions": ["GARE DU NORD", "UZ BRUSSEL"],
+    "stops": [
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1331",
+            "stop_name": "UZ BRUSSEL"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1335",
+            "stop_name": "ANCIENNE BARRIERE"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1079",
+            "stop_name": "DE RIVIEREN"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1027",
+            "stop_name": "LEGRELLE"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "1013",
+            "stop_name": "BRUXELLOIS"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1014",
+            "stop_name": "MIROIR"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "6805",
+            "stop_name": "BROUSTIN"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "4116",
+            "stop_name": "PARC ELISABETH"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1112",
+            "stop_name": "SIMONIS"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "5009",
+            "stop_name": "BELGICA"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "5011",
+            "stop_name": "VANDERSTICHELEN"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "1019",
+            "stop_name": "PICARD"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1351",
+            "stop_name": "AVENUE DU PORT"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "1349",
+            "stop_name": "TOUR ET TAXIS"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "1016",
+            "stop_name": "WILLEBROEK"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1024",
+            "stop_name": "WTC"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "1083",
+            "stop_name": "GARE DU NORD"
+        }],
+        [{
+            "stop_sequence": "1",
+            "stop_id": "1030",
+            "stop_name": "GARE DU NORD"
+        }, {
+            "stop_sequence": "2",
+            "stop_id": "1052",
+            "stop_name": "WTC"
+        }, {
+            "stop_sequence": "3",
+            "stop_id": "1051",
+            "stop_name": "WILLEBROEK"
+        }, {
+            "stop_sequence": "4",
+            "stop_id": "1348",
+            "stop_name": "TOUR ET TAXIS"
+        }, {
+            "stop_sequence": "5",
+            "stop_id": "1350",
+            "stop_name": "AVENUE DU PORT"
+        }, {
+            "stop_sequence": "6",
+            "stop_id": "1056",
+            "stop_name": "PICARD"
+        }, {
+            "stop_sequence": "7",
+            "stop_id": "5074",
+            "stop_name": "VANDERSTICHELEN"
+        }, {
+            "stop_sequence": "8",
+            "stop_id": "5076",
+            "stop_name": "BELGICA"
+        }, {
+            "stop_sequence": "9",
+            "stop_id": "1053",
+            "stop_name": "FLESSINGUE"
+        }, {
+            "stop_sequence": "10",
+            "stop_id": "1183",
+            "stop_name": "SIMONIS"
+        }, {
+            "stop_sequence": "11",
+            "stop_id": "6864",
+            "stop_name": "BROUSTIN"
+        }, {
+            "stop_sequence": "12",
+            "stop_id": "6865",
+            "stop_name": "MIROIR"
+        }, {
+            "stop_sequence": "13",
+            "stop_id": "1062",
+            "stop_name": "BRUXELLOIS"
+        }, {
+            "stop_sequence": "14",
+            "stop_id": "1000",
+            "stop_name": "LEGRELLE"
+        }, {
+            "stop_sequence": "15",
+            "stop_id": "4065",
+            "stop_name": "DE RIVIEREN"
+        }, {
+            "stop_sequence": "16",
+            "stop_id": "1103",
+            "stop_name": "ANCIENNE BARRIERE"
+        }, {
+            "stop_sequence": "17",
+            "stop_id": "1330",
+            "stop_name": "LAERBEEK-UZ BRUS."
+        }, {
+            "stop_sequence": "18",
+            "stop_id": "1044",
+            "stop_name": "UZ BRUSSEL"
+        }]
+    ]
+}
