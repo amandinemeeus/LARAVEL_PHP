@@ -14,9 +14,9 @@
         <style>
             html, body {
                 background-color: #fff;
-                color: #636b6f;
+                color: crimson;
                 font-family: 'Raleway', sans-serif;
-                font-weight: 100;
+                font-weight: bold;
                 height: 100vh;
                 margin: 0;
             }
@@ -34,16 +34,26 @@
                 color: black;
             }
 
-            li {list-style-type: none}
+            li {}
             a {text-decoration:none}
+            h1 {margin-left: 20px}
 
         </style>
     </head>
     <body>
-    
-       
-       
+        <h1>{{$route->route_short_name}} / {{ $route->route_long_name}} </h1> 
+        <ul>
+            @foreach ($stops as $stop)
 
+                <li> 
+                    {{ $stop->stop_name }}
+                    @if (isset($stop->here)) ==> Good vibes :-)
+                    @endif
+                </li>
+                <br>
+                
+            @endforeach
+        </ul>
 
     </body>
 </html>

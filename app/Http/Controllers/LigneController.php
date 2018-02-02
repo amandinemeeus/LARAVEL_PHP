@@ -10,7 +10,8 @@ class LigneController extends Controller
         $routes = $this->getRoutes();
         //$position = $this->getPosition(); //call the function
         //dump($position);
-        return view ('Lignes') -> with ('routes', $routes);
+        return view ('Lignes')->with ('routes', $routes);
+        
     }
 
     function getRoutes($route_id = null) {
@@ -27,14 +28,14 @@ class LigneController extends Controller
         return $routes;
     }
 
-    function getPosition() {
+    function getPosition($route_id) {
         $token = $this->getToken();
         // initialisation de la session
         $curl = curl_init();
 
         // configuration des options
         curl_setopt_array($curl, array(
-            CURLOPT_URL                 => "https://opendata-api.stib-mivb.be/OperationMonitoring/1.0/VehiclePositionByLine/93",
+            CURLOPT_URL                 => "https://opendata-api.stib-mivb.be/OperationMonitoring/1.0/VehiclePositionByLine/$route_id",
             CURLOPT_RETURNTRANSFER      => 1,
             CURLOPT_HTTPHEADER          => ["Authorization: Bearer $token"],
             CURLOPT_CAINFO              => 'C:\MAMP\htdocs\LARAVEL\STIB\cacert.pem',
@@ -71,9 +72,9 @@ class LigneController extends Controller
         foreach ($routes as $key => $route) {
             $directions = explode(" - ", $route->route_long_name );
             //dd ($direction);
-            $routes[$key] -> route_direction = array (
-                $this -> slugify($directions[0])=> $directions[0],
-                $this -> slugify($directions[1])=> $directions[1]
+            $routes[$key]-> route_direction = array (
+                $this->slugify($directions[0])=> $directions[0],
+                $this->slugify($directions[1])=> $directions[1]
             );
         }
         return $routes;
@@ -100,11 +101,16 @@ class LigneController extends Controller
         return $clean;
     }
 
-    function show ($id, $direction){
-        $route = $this -> getRoutes($id); 
-        $stops = $this -> getRoutesStops($route, $direction);
-        dump ($stops);
-        return view ('Ligne') ;
+    function show ($route_id, $direction){
+        $route = $this->getRoutes($route_id); 
+        $stops = $this->getRoutesStops($route, $direction);
+        $position = $this->getPosition($route_id);
+        $routeStopsRefletPosition = $this->makeItAppened($stops, $position);
+        
+        return view ('Ligne')->with ([
+            'stops' => $routeStopsRefletPosition,
+            'route' => $route
+            ]);
     }
 
     function getRoutesStops ($route, $direction) {
@@ -114,7 +120,24 @@ class LigneController extends Controller
         $direction_name = $route->route_direction[$direction]; 
         $key = array_search ($direction_name, $response->directions);
         
-        return $response -> stops[$key];
+        return $response->stops[$key];
+    }
+
+    function makeItAppened($stops, $positions){
+        $result = $stops;
+        $lastStop = end ($stops)->stop_id;
+        
+        foreach ($stops as $key => $stop){
+            foreach ($positions as $position){
+                if ($position->directionId != $lastStop){
+                    continue;
+                }
+                if ($position->pointId == $stop->stop_id){
+                    $stops[$key]->here = true;
+                }
+            }
+        }
+        return $stops;     
     }
 
 }
